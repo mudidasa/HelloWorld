@@ -19,6 +19,7 @@ public class HelloWorldApp {
 	        }
 
 	        }
+	        System.out.println("Another line"); // Display the string.
 
 	}
 
